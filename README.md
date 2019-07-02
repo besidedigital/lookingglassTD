@@ -18,9 +18,9 @@ This is a plugin that [we](https://www.besidedigital.com/) made to display conte
 
 * We found it helpful to install [the library](https://docs.lookingglassfactory.com/Gettingstarted/library/) and run some example programs to make sure the display is working properly.
 
-* Once you've seen a couple holograms we need to download the a driver to load the calbiration from the display. The threejs driver is a small program that reads calibration data from the USB and reports it via websockets. You can download it by following the [threejs tutorial](https://docs.lookingglassfactory.com/Three/guide/) or using [this link](http://look.glass/threejsdriver)
+* Once you've seen a couple holograms download the a driver to load the calbiration from the display. The threejs driver is a small program that reads calibration data from the USB and reports it via websockets. You can download it by following the [threejs tutorial](https://docs.lookingglassfactory.com/Three/guide/) or using [this link](http://look.glass/threejsdriver)
 
-* Once you've got the drive and the display connected clone this repo and import the latest build from the tox directory into your patch to get started.
+* Once you've got the driver and the display connected clone this repo and import the latest build from the tox directory into your patch to get started.
 
 
 
