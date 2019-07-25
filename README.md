@@ -49,7 +49,7 @@ This is a plugin that [we](https://www.besidedigital.com/) made to display conte
 
 * Portions of this plugin were created by or derived from work created by Looking Glass Factory. The HoloPlay License file included in this repo covers any such material.
 
-All portions of this plugin created by BeSide is covered by an MIT License:
+All portions of this plugin created by BeSide are covered by an MIT License:
 
 Copyright 2019 BeSide Digital LLC
 
