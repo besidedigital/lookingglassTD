@@ -1,4 +1,4 @@
-# Looking Glass Plugin for [Touch Designer 099](https://www.derivative.ca/)
+# Looking Glass Plugin for [TouchDesigner 099](https://www.derivative.ca/)
 
 ![](images/header.png)
 
