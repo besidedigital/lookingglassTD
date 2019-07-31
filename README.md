@@ -29,7 +29,7 @@ This is a plugin that [we](https://www.besidedigital.com/) made to display conte
 
 * The component is designed to function approximately like a normal TD camera. Place the camera component within the same scene as Geo comps and lights and the component will render these approriately. Simple camera operations(Translate, Rotate, Scale) are supported. Other camera operations are not(Look At, Path, e.t.c) and will produce unexpected results.
 * you can render to the Looking Glass one of two ways. 
-    1. The Tox exposes an TOP out that you can use in your own windowing setup
+    1. The Tox exposes a TOP out that you can use in your own windowing setup
 
 
     ![](images/info.png)
